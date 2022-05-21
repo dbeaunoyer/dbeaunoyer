@@ -30,8 +30,9 @@ Project 3- VueJS : https://codesandbox.io/s/admiring-leaf-c6xnm
 ### Angular 
 
 Projet 1- Angular : https://github.com/dbeaunoyer/Technique-Programmation-3-Projet-app-voyage  
-Projet 3 Angular : https://github.com/dbeaunoyer/AngularProjetFinal
-Projet Stage - Angular https://github.com/dbeaunoyer/Abacus
+Projet 3 Angular : https://github.com/dbeaunoyer/AngularProjetFinal  
+Projet Synthèse : https://github.com/dbeaunoyer/projetSynthese  
+Projet Stage - Angular https://github.com/dbeaunoyer/Abacus  
 ### PHP 
 
 CRUD SQL-PHP : https://github.com/dbeaunoyer/phpsql  
