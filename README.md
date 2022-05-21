@@ -15,6 +15,10 @@ TEST
 - ⚡ Fun fact: ...
 -->
 
+### Javascript
+
+Password Generator : https://codepen.io/dbeaunoyer/pen/jOZwvQW
+
 #### React 
 
 Projet 1- React : https://codesandbox.io/s/dazzling-joana-2ewmj
@@ -34,3 +38,4 @@ CRUD SQL-PHP : https://github.com/dbeaunoyer/phpsql
 ### HTML / CSS 
 
 Portfolio - https://github.com/dbeaunoyer/Portfolio
+
