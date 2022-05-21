@@ -29,8 +29,7 @@ Project 3- VueJS : https://codesandbox.io/s/admiring-leaf-c6xnm
 
 ### Angular 
 
-Projet 1- Angular : https://github.com/dbeaunoyer/Technique-Programmation-3-Projet-app-voyage
-Projet 3 Angular : https://github.com/dbeaunoyer/AngularProjetFinal
+Projet 1- Angular : https://github.com/dbeaunoyer/Technique-Programmation-3-Projet-app-voyage Projet 3 Angular : https://github.com/dbeaunoyer/AngularProjetFinal
 
 ### PHP 
 
