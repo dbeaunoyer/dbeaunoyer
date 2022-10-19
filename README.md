@@ -21,6 +21,8 @@ Calculatrice avec condition : https://github.com/dbeaunoyer/Calculatrice
 
 Questionnaire nom et age : https://github.com/dbeaunoyer/Nom_Age
 
+Nombre magique : https://github.com/dbeaunoyer/nombre_magique
+
 ### Javascript
 
 Password Generator : https://codepen.io/dbeaunoyer/pen/jOZwvQW
