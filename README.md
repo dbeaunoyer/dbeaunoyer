@@ -23,6 +23,8 @@ Questionnaire nom et age : https://github.com/dbeaunoyer/Nom_Age
 
 Nombre magique : https://github.com/dbeaunoyer/nombre_magique
 
+Jeu de math : https://github.com/dbeaunoyer/jeu_De_Math
+
 ### Javascript
 
 Password Generator : https://codepen.io/dbeaunoyer/pen/jOZwvQW
